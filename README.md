@@ -1,21 +1,21 @@
-# Airbnb Data Analysis
+# 🏡 Airbnb Data Analysis
 
-### Overview
+### 📌 Overview
 Analyzed the Airbnb Open Dataset to uncover insights into pricing trends, booking patterns, host behavior, and property availability within the hospitality and short-term rental domain.
 
-### Objective
+### 🎯 Objective
 The goal of this project was to perform an end-to-end data analysis workflow by cleaning raw data in Excel, analyzing business problems using SQL, and building an interactive Tableau dashboard for data-driven insights and recommendations.
 
 ---
 
-### Tools & Technologies
+### 🛠️ Tools & Technologies
 - Excel (Data Cleaning)
 - SQL / SQLite (Data Analysis)
 - Tableau (Data Visualization)
 
 ---
 
-### Key Analysis Areas
+### 📊 Key Analysis Areas
 - Pricing Trends Across Neighbourhoods
 - Room Type Popularity
 - Host Behaviour & Guest Activity
@@ -25,7 +25,7 @@ The goal of this project was to perform an end-to-end data analysis workflow by 
 
 ---
 
-### Project Workflow
+### 🔄 Project Workflow
 1. Cleaned and prepared raw Airbnb data using Excel.
 2. Imported cleaned CSV data into SQLite for analysis.
 3. Performed exploratory and business-focused SQL analysis.
@@ -34,7 +34,7 @@ The goal of this project was to perform an end-to-end data analysis workflow by 
 
 ---
 
-### Files Included
+### 📂 Files Included
 - `airbnb_data_analysis.sql` → SQL queries and insights
 - `cleaned_airbnb_data.csv` → Cleaned dataset
 - `raw_airbnb_data.xlsx` → Raw dataset
@@ -42,7 +42,7 @@ The goal of this project was to perform an end-to-end data analysis workflow by 
 
 ---
 
-### Key Insights
+### 📈 Key Insights
 - Premium neighbourhoods showed significantly higher pricing trends.
 - Entire homes and private rooms dominated the market.
 - Short stays were more common compared to long-term stays.
@@ -50,13 +50,14 @@ The goal of this project was to perform an end-to-end data analysis workflow by 
 
 ---
 
-### Recommendations
+### 💡 Recommendations
 - Hosts can optimize pricing strategies based on neighbourhood demand and room type trends.
 - Improving service quality and booking flexibility may help increase customer satisfaction and occupancy.
 - Availability and stay-duration trends can support better revenue optimization strategies.
 
 ---
-### Dashboard Preview
+
+### 📸 Dashboard Preview
 
 <p align="center">
   <img src="Airbnb_Dashboard.png" width="850">
@@ -64,8 +65,10 @@ The goal of this project was to perform an end-to-end data analysis workflow by 
 
 ---
 
-### Dashboard
+### 📊 Dashboard
 The Tableau dashboard provides interactive visualizations for pricing, availability, room types, booking trends, and customer behavior analysis.
 
-### Conclusion
+---
+
+### ✅ Conclusion
 This project demonstrates an end-to-end data analytics workflow involving data cleaning, SQL-based business analysis, insight generation, and interactive dashboard visualization. The analysis highlights how pricing, availability, booking behavior, and room preferences influence the short-term rental market and support data-driven decision-making.
