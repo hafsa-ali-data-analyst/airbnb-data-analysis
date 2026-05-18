@@ -59,7 +59,7 @@ The goal of this project was to perform an end-to-end data analysis workflow by 
 ### Dashboard Preview
 
 <p align="center">
-  <img src="Downloads/Airbnb_Dashboard.png" width="850">
+  <img src="main/Airbnb_Dashboard.png" width="850">
 </p>
 
 ---
