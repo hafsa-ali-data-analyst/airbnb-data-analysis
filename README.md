@@ -41,6 +41,15 @@ The goal of this project was to perform an end-to-end data analysis workflow by 
 - `Airbnb_Insights_Dashboard.twbx` → Tableau dashboard
 
 ---
+### 📂 Cleaned Dataset
+The cleaned Airbnb dataset is provided as a ZIP file due to file size limitations on GitHub.
+
+Steps to access:
+1. Download the ZIP file
+2. Extract the contents
+3. Open the CSV file in Excel or any data analysis tool
+   
+---
 
 ### 📈 Key Insights
 - Premium neighbourhoods showed significantly higher pricing trends.
