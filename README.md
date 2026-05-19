@@ -42,9 +42,8 @@ The goal of this project was to perform an end-to-end data analysis workflow by 
 
 ---
 ### 📂 Cleaned Dataset
-The cleaned Airbnb dataset is provided as a ZIP file due to file size limitations on GitHub.
-
-Steps to access:
+ The cleaned Airbnb dataset is provided as a ZIP file due to file size limitations on GitHub.
+ Steps to access:
 1. Download the ZIP file
 2. Extract the contents
 3. Open the CSV file in Excel or any data analysis tool
