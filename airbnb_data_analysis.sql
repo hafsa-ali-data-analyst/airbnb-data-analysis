@@ -8,7 +8,7 @@
 -- Tools Used: Excel, SQLite, Tableau
 -- Objective:
 -- Analyze pricing trends, host behavior, booking patterns,
--- availability, and customer preferences to derive business insights.
+-- availability and customer preferences to derive business insights.
 
 SELECT * FROM Airbnb_Open_Dataset;
 
@@ -63,11 +63,11 @@ ORDER BY count_of_properties DESC;
 -- Entire homes are the most commonly listed property type,
 -- while hotel rooms receive comparatively higher average ratings.
 -- This suggests that customers may value the professional service,
--- maintenance, and consistency associated with hotel accommodations.
+-- maintenance and consistency associated with hotel accommodations.
 
 -- Recommendation:
 -- Hosts offering entire homes can improve customer satisfaction
--- by enhancing cleanliness, maintenance, and hospitality standards.
+-- by enhancing cleanliness, maintenance and hospitality standards.
 
 -- 3: Host Behaviour and Guest Activity
 
@@ -149,7 +149,7 @@ ORDER BY review_rate_numb DESC;
 -- Insights:
 -- Review ratings are fairly evenly distributed across different rating values,
 -- with 5-star ratings having the highest count.
--- 1-star ratings are slightly lower compared to others,
+-- 1-star ratings are slightly lower compared to others
 -- and a small number of listings have missing review ratings.
 
 -- Recommendation:
@@ -177,7 +177,7 @@ ORDER BY count_of_properties DESC;
 
 -- Recommendation:
 -- Hosts with lower availability may optimize occupancy through better pricing,
--- seasonal offers, or flexible booking policies.
+-- seasonal offers or flexible booking policies.
 
 -- 4: Booking Patterns and Availability 
 
@@ -262,20 +262,20 @@ ORDER BY count_of_properties DESC;
 
 -- Recommendation:
 -- Since private and entire room accommodations dominate the market,
--- hosts can focus on improving privacy, comfort, and amenities
+-- hosts can focus on improving privacy, comfort and amenities
 -- to attract more guests.
 
 -- Final Overall Insight:
 -- The Airbnb market is largely driven by premium-priced listings,
 -- short-stay accommodations, and entire/private room preferences.
 -- Customer satisfaction appears to be influenced by service quality,
--- pricing strategy, booking flexibility, and property availability.
+-- pricing strategy, booking flexibility and property availability.
 -- Data-driven pricing and improved guest experience can help hosts
 -- maximize occupancy and revenue potential.
 
 -- Final Recommendation:
 -- Hosts should adopt competitive pricing, maintain high service quality,
--- encourage instant bookings, and optimize availability strategies
+-- encourage instant bookings and optimize availability strategies
 -- to improve customer satisfaction and maximize revenue.
 
 
