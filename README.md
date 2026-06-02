@@ -1,10 +1,12 @@
 # 🏡 Airbnb Data Analysis
 
 ### 📌 Overview
-Analyzed the Airbnb Open Dataset to uncover insights into pricing trends, booking patterns, host behavior, and property availability within the hospitality and short-term rental domain.
+Analyzed the Airbnb Open Dataset using Excel, SQL (SQLite), and Tableau to uncover insights into pricing trends, room-type preferences, booking patterns, host behavior and property availability. Developed an interactive dashboard and generated data-driven recommendations to support decision-making in the hospitality and short-term rental industry.
+
+---
 
 ### 🎯 Objective
-The goal of this project was to perform an end-to-end data analysis workflow by cleaning raw data in Excel, analyzing business problems using SQL, and building an interactive Tableau dashboard for data-driven insights and recommendations.
+The objective of this project was to identify key factors influencing Airbnb pricing, occupancy and customer preferences, and to translate raw listing data into actionable business insights that could support revenue optimization, inventory planning and customer experience improvements.
 
 ---
 
@@ -26,11 +28,32 @@ The goal of this project was to perform an end-to-end data analysis workflow by 
 ---
 
 ### 🔄 Project Workflow
-1. Cleaned and prepared raw Airbnb data using Excel.
-2. Imported cleaned CSV data into SQLite for analysis.
-3. Performed exploratory and business-focused SQL analysis.
-4. Derived insights and recommendations from query results.
-5. Built an interactive Tableau dashboard to visualize findings.
+1. Cleaned and prepared raw Airbnb listing data using Excel to improve data quality and consistency.
+2. Imported the cleaned dataset into SQLite for exploratory and business-focused analysis.
+3. Analyzed pricing trends, room-type distribution, availability patterns, customer ratings and booking policies using SQL.
+4. Derived actionable insights and business recommendations from query results.
+5. Built an interactive Tableau dashboard to visualize KPIs, trends and key findings.
+
+---
+
+### 📈 Key Insights
+
+- Entire Home/Apt listings accounted for **52.35%** of all properties, while Private Rooms represented **45.37%**, making them the dominant accommodation types.
+- Average listing prices varied across neighbourhood groups, ranging from approximately **$545–$630**, with premium neighbourhoods maintaining the highest pricing levels.
+- Nearly **34K listings** fell into the High Availability category, highlighting opportunities to improve occupancy and booking conversion rates.
+- Short-stay accommodations dominated the platform with approximately **57K listings**, significantly outnumbering medium- and long-term stay properties.
+- Customer ratings were primarily concentrated between **3 and 5 stars**, with 5-star listings receiving the highest review activity.
+- Instant booking and cancellation policy preferences varied across hosts, reflecting different occupancy and pricing strategies.
+
+---
+
+### 💡 Recommendations
+
+- Implement dynamic pricing strategies based on neighbourhood demand, room type performance and customer preferences.
+- Improve occupancy rates by optimizing availability management and offering flexible booking options.
+- Focus on maintaining high customer ratings through enhanced guest experience and service quality.
+- Utilize stay-duration and booking trends to support revenue optimization and inventory planning decisions.
+- Monitor high-availability properties and introduce targeted pricing or promotional strategies to improve booking performance.
 
 ---
 
@@ -53,18 +76,8 @@ The cleaned Airbnb dataset is provided as a ZIP file due to file size limitation
    
 ---
 
-### 📈 Key Insights
-- Premium neighbourhoods showed significantly higher pricing trends.
-- Entire homes and private rooms dominated the market.
-- Short stays were more common compared to long-term stays.
-- Moderate cancellation policies were slightly more preferred by hosts.
-
----
-
-### 💡 Recommendations
-- Hosts can optimize pricing strategies based on neighbourhood demand and room type trends.
-- Improving service quality and booking flexibility may help increase customer satisfaction and occupancy.
-- Availability and stay-duration trends can support better revenue optimization strategies.
+### 📊 Dashboard
+The Tableau dashboard provides interactive visualizations for pricing, availability, room types, booking trends and customer behavior analysis.
 
 ---
 
@@ -76,10 +89,5 @@ The cleaned Airbnb dataset is provided as a ZIP file due to file size limitation
 
 ---
 
-### 📊 Dashboard
-The Tableau dashboard provides interactive visualizations for pricing, availability, room types, booking trends, and customer behavior analysis.
-
----
-
 ### ✅ Conclusion
-This project demonstrates an end-to-end data analytics workflow involving data cleaning, SQL-based business analysis, insight generation, and interactive dashboard visualization. The analysis highlights how pricing, availability, booking behavior, and room preferences influence the short-term rental market and support data-driven decision-making.
+This project demonstrates an end-to-end data analytics workflow involving data cleaning, SQL-based business analysis, insight generation, and interactive dashboard visualization. The analysis identified key pricing, occupancy, and customer behavior trends, highlighting opportunities for revenue optimization and data-driven decision-making within the short-term rental market.
