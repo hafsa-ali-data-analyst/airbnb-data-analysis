@@ -6,7 +6,7 @@ Analyzed the Airbnb Open Dataset using Excel, SQL (SQLite), and Tableau to uncov
 ---
 
 ### 🎯 Objective
-The objective of this project was to identify key factors influencing Airbnb pricing, occupancy and customer preferences, and to translate raw listing data into actionable business insights that could support revenue optimization, inventory planning and customer experience improvements.
+The objective of this project was to identify key factors influencing Airbnb pricing, occupancy and customer preferences, and to translate raw listing data into actionable business insights that could support revenue optimization, occupancy management and customer experience improvements.
 
 ---
 
