@@ -84,7 +84,7 @@ The Tableau dashboard provides interactive visualizations for pricing, availabil
 ### 📸 Dashboard Preview
 
 <p align="center">
-  <img src="Airbnb_Dashboard.png" width="850">
+  <img src="Airbnb_Market_Insights_Dashboard.png" width="850">
 </p>
 
 ---
