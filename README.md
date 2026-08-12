@@ -85,8 +85,8 @@ The cleaned dataset is included in the repository as a **ZIP file due to the lar
 
 | File                                    | Description                                                             |
 | --------------------------------------- | ----------------------------------------------------------------------- |
-| `Airbnb_Analysis.sql`                   | SQL queries used for data analysis and business insights                |
-| `Cleaned_Airbnb_Dataset.zip`            | Cleaned Airbnb listing dataset prepared using Excel                     |
+| `Airbnb_Data_Analysis.sql`                   | SQL queries used for data analysis and business insights                |
+| `Cleaned_Airbnb_Dataset_GitHub.zip`            | Cleaned Airbnb listing dataset prepared using Excel                     |
 | `Airbnb_Market_Insights_Dashboard.twbx` | Tableau workbook containing the interactive dashboard                   |
 | `Airbnb_Market_Insights_Dashboard.png`  | Static preview of the Tableau dashboard                                 |
 | `Raw_Airbnb_Dataset.xlsx`               | Original Airbnb dataset used as the starting point for data preparation |
