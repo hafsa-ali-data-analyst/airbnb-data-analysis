@@ -2,15 +2,15 @@
 
 ## 📌 Overview
 
-An end-to-end data analytics project using the Airbnb Open Dataset to analyze pricing patterns, room-type distribution, property availability, booking policies, host-related attributes, and customer ratings.
+An end-to-end data analytics project using the Airbnb Open Dataset to analyze pricing patterns, room-type distribution, property availability, booking policies, host-related attributes and customer ratings.
 
-The project combines **Excel for data cleaning, SQL for business analysis, and Tableau for interactive visualization**, transforming raw listing data into business-oriented insights for the short-term rental market.
+The project combines **Excel for data cleaning, SQL for business analysis and Tableau for interactive visualization**, transforming raw listing data into business-oriented insights for the short-term rental market.
 
 ---
 
 ## 🎯 Objective
 
-The objective of this project was to analyze Airbnb listing data to identify patterns in **pricing, room types, availability, booking policies, and customer ratings**, and translate these findings into actionable business insights for hosts and hospitality stakeholders.
+The objective of this project was to analyze Airbnb listing data to identify patterns in **pricing, room types, availability, booking policies and customer ratings**, and translate these findings into actionable business insights for hosts and hospitality stakeholders.
 
 ---
 
@@ -42,9 +42,9 @@ The objective of this project was to analyze Airbnb listing data to identify pat
 1. Cleaned and prepared the raw Airbnb listing dataset using Excel.
 2. Handled missing and inconsistent values while preserving meaningful missing information where appropriate.
 3. Imported the cleaned dataset into SQLite for SQL-based exploratory and business analysis.
-4. Analyzed pricing, room types, availability, booking policies, minimum-night requirements, host attributes, and review ratings.
+4. Analyzed pricing, room types, availability, booking policies, minimum-night requirements, host attributes and review ratings.
 5. Derived business insights and recommendations from the analysis.
-6. Built an interactive Tableau dashboard containing KPIs, filters, and analytical visualizations.
+6. Built an interactive Tableau dashboard containing KPIs, filters and analytical visualizations.
 
 ---
 
@@ -64,7 +64,7 @@ The objective of this project was to analyze Airbnb listing data to identify pat
 ## 💡 Business Recommendations
 
 * Use **neighbourhood-level pricing patterns** to develop competitive pricing strategies for different locations.
-* Monitor properties with high availability and evaluate pricing, amenities, and booking policies to identify opportunities to improve listing performance.
+* Monitor properties with high availability and evaluate pricing, amenities and booking policies to identify opportunities to improve listing performance.
 * Consider flexible booking and cancellation policies where appropriate to improve the attractiveness of listings.
 * Maintain strong service quality and guest experience to support higher customer ratings.
 * Use room-type and minimum-night patterns to understand the accommodation segments that have the strongest representation in the market.
@@ -109,7 +109,7 @@ The interactive Tableau dashboard includes:
 
 ## 🔍 Key Takeaway
 
-The analysis shows a market characterized by a strong presence of **entire-home and private-room listings, short-stay properties, and relatively high listing prices**. Neighbourhood-level pricing, availability, room type, and booking-policy patterns provide useful dimensions for comparing listing characteristics and identifying opportunities for more informed pricing and listing strategies.
+The analysis shows a market characterized by a strong presence of **entire-home and private-room listings, short-stay properties and relatively high listing prices**. Neighbourhood-level pricing, availability, room type and booking-policy patterns provide useful dimensions for comparing listing characteristics and identifying opportunities for more informed pricing and listing strategies.
 
 ---
 
@@ -131,17 +131,17 @@ The analysis shows a market characterized by a strong presence of **entire-home 
 
 This project demonstrates an end-to-end data analytics workflow, from cleaning and preparing raw Airbnb listing data in Excel to performing SQL-based analysis and developing an interactive Tableau dashboard.
 
-The analysis highlights key patterns in pricing, accommodation types, availability, booking policies, and customer ratings. These insights can help support more informed pricing, listing, and operational decisions within the short-term rental market.
+The analysis highlights key patterns in pricing, accommodation types, availability, booking policies, and customer ratings. These insights can help support more informed pricing, listing and operational decisions within the short-term rental market.
 
 ---
 
 ## 🔗 Repository
 
-This repository contains the cleaned dataset, SQL analysis, Tableau workbook, and dashboard preview for the Airbnb Market Insights project.
+This repository contains the cleaned dataset, SQL analysis, Tableau workbook and dashboard preview for the Airbnb Market Insights project.
 
 ### Clone the Repository
 
 To clone this repository locally, run:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/hafsa-ali-data-analyst/airbnb-data-analysis.git
