@@ -128,18 +128,12 @@ The interactive Tableau dashboard provides a consolidated view of Airbnb listing
 * KPI Development
 * Business Insight Generation
 * Data-Driven Recommendations
-
-## Conclusion
-
-This project demonstrates an end-to-end data analytics workflow, from cleaning and preparing raw Airbnb listing data in Excel to performing SQL-based analysis and developing an interactive Tableau dashboard.
-
-The analysis highlights key patterns in pricing, accommodation types, availability, booking policies and customer ratings. These insights can help support more informed pricing, listing and operational decisions within the short-term rental market.
-
+  
 ---
 
 ## Repository
 
-This repository contains the cleaned dataset, SQL analysis, Tableau workbook and dashboard preview for the Airbnb Market Insights project.
+This repository contains the raw daatset, cleaned dataset, SQL analysis, Tableau workbook and dashboard preview for the Airbnb Market Insights project.
 
 ### Clone the Repository
 
@@ -147,3 +141,12 @@ To clone this repository locally, run:
 
 ```bash
 git clone https://github.com/hafsa-ali-data-analyst/airbnb-data-analysis.git
+```
+
+---
+
+## Conclusion
+
+This project demonstrates an end-to-end data analytics workflow, from cleaning and preparing raw Airbnb listing data in Excel to performing SQL-based analysis and developing an interactive Tableau dashboard.
+
+The analysis highlights key patterns in pricing, accommodation types, availability, booking policies and customer ratings. These insights can help support more informed pricing, listing and operational decisions within the short-term rental market.
