@@ -1,6 +1,6 @@
-# 🏡 Airbnb Market Insights Dashboard
+# Airbnb Market Insights Dashboard
 
-## 📌 Overview
+## Overview
 
 An end-to-end data analytics project using the Airbnb Open Dataset to analyze pricing patterns, room-type distribution, property availability, booking policies, host-related attributes and customer ratings.
 
@@ -8,13 +8,13 @@ The project combines **Excel for data cleaning, SQL for business analysis, and T
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The objective of this project was to analyze Airbnb listing data to identify patterns in **pricing, accommodation types, availability, booking policies and customer ratings**, and translate these findings into actionable business insights that can support more informed pricing and listing strategies.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * **Excel** — Data cleaning and preparation
 * **SQL / SQLite** — Data analysis and business queries
@@ -22,7 +22,7 @@ The objective of this project was to analyze Airbnb listing data to identify pat
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 The project uses the **Airbnb Open Dataset from Kaggle** as the original data source.
 
@@ -32,7 +32,7 @@ The cleaned dataset is included in the repository as a **ZIP file due to the lar
 
 ---
 
-## 📊 Key Analysis Areas
+## Key Analysis Areas
 
 * Pricing Trends Across Neighbourhoods
 * Top 10 Most Expensive Neighbourhoods
@@ -47,7 +47,7 @@ The cleaned dataset is included in the repository as a **ZIP file due to the lar
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 1. Cleaned and prepared the raw Airbnb listing dataset using Excel.
 2. Handled missing and inconsistent values while preserving meaningful missing information where appropriate.
@@ -58,7 +58,7 @@ The cleaned dataset is included in the repository as a **ZIP file due to the lar
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 * **Entire Home/Apt** listings accounted for **52.35%** of all properties, while **Private Rooms** represented **45.37%**, making them the dominant accommodation types in the dataset.
 * **New Dorp** and **Chelsea, Staten Island** were among the highest-priced neighbourhoods by average listing price, highlighting substantial pricing variation across individual neighbourhoods.
@@ -70,7 +70,7 @@ The cleaned dataset is included in the repository as a **ZIP file due to the lar
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 * Use **neighbourhood-level pricing patterns** to develop competitive pricing strategies for different locations.
 * Monitor properties with high availability and evaluate pricing, amenities and booking policies to identify opportunities to improve listing performance.
@@ -81,7 +81,7 @@ The cleaned dataset is included in the repository as a **ZIP file due to the lar
 
 ---
 
-## 📂 Project Files
+## Project Files
 
 | File                                    | Description                                                             |
 | --------------------------------------- | ----------------------------------------------------------------------- |
@@ -93,7 +93,7 @@ The cleaned dataset is included in the repository as a **ZIP file due to the lar
 
 ---
 
-## 📊 Tableau Dashboard
+## Tableau Dashboard
 
 The interactive Tableau dashboard provides a consolidated view of Airbnb listing characteristics and includes:
 
@@ -109,7 +109,7 @@ The interactive Tableau dashboard provides a consolidated view of Airbnb listing
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 <p align="center">
   <img src="Airbnb_Market_Insights_Dashboard.png" width="850">
@@ -117,7 +117,7 @@ The interactive Tableau dashboard provides a consolidated view of Airbnb listing
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 * Data Cleaning
 * Exploratory Data Analysis
@@ -129,7 +129,7 @@ The interactive Tableau dashboard provides a consolidated view of Airbnb listing
 * Business Insight Generation
 * Data-Driven Recommendations
 
-## 📌 Conclusion
+## Conclusion
 
 This project demonstrates an end-to-end data analytics workflow, from cleaning and preparing raw Airbnb listing data in Excel to performing SQL-based analysis and developing an interactive Tableau dashboard.
 
@@ -137,7 +137,7 @@ The analysis highlights key patterns in pricing, accommodation types, availabili
 
 ---
 
-## 🔗 Repository
+## Repository
 
 This repository contains the cleaned dataset, SQL analysis, Tableau workbook and dashboard preview for the Airbnb Market Insights project.
 
